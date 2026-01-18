@@ -52,7 +52,7 @@ I bridge the gap between hardware and software — from designing PCBs and writi
 
 ### 💻 Software & Web Development
 
-- **🏥 Medical Center Management App**
+- **🏥 [Medical Center Management App](https://github.com/andreiz06/Medical_Center_App)**
   - **Tech Stack:** Flask (Python), MySQL, HTML/CSS.
   - Developed a full-stack web application handling patient records, appointments, and payments.
   - Implemented **stored procedures**, complex SQL queries for reporting, and secure CRUD operations.
