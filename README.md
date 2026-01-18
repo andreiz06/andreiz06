@@ -42,7 +42,7 @@ I bridge the gap between hardware and software — from designing PCBs and writi
   - Real-time data processing pipeline in **SystemVerilog** using Mealy FSMs.
   - Implements parallel data sorting (Vowels/Consonants) and security pattern recognition.
 
-- **🚦 [Smart Traffic Light Controller](LINK_CATRE_REPO_TAU)**
+- **🚦 [Smart Traffic Light Controller](https://github.com/andreiz06/FPGA_Traffic_Light_System)**
   - Robust FSM-based controller for intersection management.
   - Features "Sticky Bit" logic for asynchronous input capturing and safety timers.
 
