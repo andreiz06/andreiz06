@@ -38,7 +38,7 @@ I bridge the gap between hardware and software — from designing PCBs and writi
 
 ### ⚡ Hardware & FPGA Design
 
-- **🔐 [FPGA Stream Password Checker](LINK_CATRE_REPO_TAU)**
+- **🔐 [FPGA Stream Password Checker](https://github.com/andreiz06/FPGA_Stream_Password_Checker)**
   - Real-time data processing pipeline in **SystemVerilog** using Mealy FSMs.
   - Implements parallel data sorting (Vowels/Consonants) and security pattern recognition.
 
@@ -46,7 +46,7 @@ I bridge the gap between hardware and software — from designing PCBs and writi
   - Robust FSM-based controller for intersection management.
   - Features "Sticky Bit" logic for asynchronous input capturing and safety timers.
 
-- **🔊 [Low Frequency Audio Amplifier](LINK_CATRE_REPO_TAU)**
+- **🔊 [Low Frequency Audio Amplifier](https://github.com/andreiz06/Analog_Audio_Amplifier)**
   - Analog circuit design simulated in **TINA-TI**.
   - Professional PCB Layout created in **Cadence Allegro**, optimized for thermal dissipation and noise reduction.
 
