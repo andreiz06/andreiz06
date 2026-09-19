@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Andrei-Cristian Zaharia
 
-🎓 I'm a third-year Electronics and Telecommunications student at **UNSTPB (ETTI)**.
+🎓 I'm a fourth-year Electronics and Telecommunications student at **UNSTPB (ETTI)**.
 🚀 I am passionate about **Digital Design (FPGA)**, **Embedded Systems**, **Networking** and **Full-Stack Development**.
 
 I bridge the gap between hardware and software — from designing PCBs and writing SystemVerilog, to optimizing SQL databases and building web applications.
