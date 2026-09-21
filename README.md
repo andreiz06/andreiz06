@@ -9,7 +9,7 @@ I bridge the gap between hardware and software — from designing PCBs and writi
 
 ## 💡 About Me
 
-- 🔭 **Focus:** Currently looking for an **Internship** in Digital Design, Embedded Systems, or Networking.
+- 🔭 **Focus:** Currently looking for an **Internship/Working Student position** in Digital Design, Embedded Systems, or Networking.
 - 💻 I enjoy building software and experimenting with hardware-level design
 - 📜 **Certifications:** CCNA 1 (Introduction to Networks), CCNA 2 - In progress.
 - 🛠️ **My Technical Arsenal:**
