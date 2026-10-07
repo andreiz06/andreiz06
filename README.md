@@ -1,7 +1,7 @@
 # Andrei-Cristian Zaharia
 
 Fourth-year Electronics, Telecommunications and Information Technology student at UNSTPB (ETTI), Bucharest.
-**Digital Design Intern at Infineon Technologies** (summer 2026). Interested in **digital design (FPGA)**, **embedded systems** and **networking**.
+**Digital Design Intern at Infineon Technologies** (summer 2026). Interested in **digital design & verification (FPGA)**, **embedded systems** and **networking**.
 
 **Currently looking for:** internship / working student positions in digital design, embedded systems or networking.
 
